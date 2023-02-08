@@ -26,17 +26,25 @@ You are required to model the demand for shared bikes with the available indepen
 
 - Cleaning Data
 
+- Data Preprocessing
+
 - EDA
 
 - Data Preparation and Features Selection
 
 - Train-Test Split
 
-- Model Building
+- Scaling
+
+- Model Building and Feature Selection
+
+- Residual Analysis of train data and validation
+
+- Making Predictions
 
 - Model Evaluation
 
-- Prediction on test set
+- Calculating Adjusted r squared
 ## Details of files given:
 
 - Bike Sharing-Linear Regression.ipynb:Python notebook with the whole linear model, predictions, and evaluation.
