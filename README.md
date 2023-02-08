@@ -17,7 +17,9 @@ Based on various meteorological surveys and people's styles, the service provide
 ## Business Goal:
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
-## Submissions Expected:
+## Details of files given:
 
-- Python Notebook: One Python notebook with the whole linear model, predictions, and evaluation.
-- Subjective Questions PDF: Apart from the Python notebook, you also need to answer some subjective questions related to linear regression which can be downloaded from the file below. Answer these questions and submit it as a PDF. 
+- Bike Sharing-Linear Regression.ipynb:Python notebook with the whole linear model, predictions, and evaluation.
+- Linear Regression Subjective Questions.pdf: Answered Subjective Questions
+- day.csv:Dataset
+- Bike Sharing Data Dictionary.pdf: Data Dictionary
